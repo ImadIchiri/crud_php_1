@@ -9,4 +9,4 @@ And You Will Get The Initial Table, And 20 Row Inserted In It
 
 Gmail: ichiri02imad@gmail.com <br />
 Instagram: imad_ichiri <br />
-Github: Imad Ichiri <br />
+LinkedIn: <a href='https://www.linkedin.com/in/imad-ichiri-577a91203'>Imad Ichiri</a> <br />
