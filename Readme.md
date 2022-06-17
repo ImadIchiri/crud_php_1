@@ -7,6 +7,6 @@ And You Will Get The Initial Table, And 20 Row Inserted In It
 
 ### For Any Question
 
-Gmail: ichiri02imad@gmail.com
-Instagram: imad_ichiri
-Github: Imad Ichiri
+Gmail: ichiri02imad@gmail.com <br />
+Instagram: imad_ichiri <br />
+Github: Imad Ichiri <br />
